@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "TheVortexxSMP.aternos.me",
-    "port": 24606,
-    "version": "26.2"
+    "port": 25565,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
